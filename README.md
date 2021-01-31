@@ -14,24 +14,23 @@ Contact : <loic.labeye@groupe-esigelec.org>
 
 2. Acceptez le téléchargement
 
-<img src="file:///home/usr/pediahelp-apk/dl.png" alt="file:///home/usr/pediahelp-apk/dl.png" style="zoom: 25%;" />
+<img src="./dl.png" alt="file:///home/usr/pediahelp-apk/dl.png" style="zoom: 25%;" />
 
 3. Une fois le téléchargement effectué, allez dans votre barre de notifications, et appuyez sur l'élément nommé `Pediahelp_v0.1.apk`
 
-   <img src="file:///home/usr/Bureau/dlover.png" alt="file:///home/usr/Bureau/dlover.png" style="zoom:25%;" />
+   <img src="./dlover.png" alt="file:///home/usr/Bureau/dlover.png" style="zoom:25%;" />
 
 4. Votre navigateur va vous informer que par défaut l'installation d'apk via des sources inconnues n'est pas recommandé. Autorisez votre navigateur à installer des fichiers d'applications.
 
-<img src="file:///home/usr/Bureau/warning.png" alt="file:///home/usr/Bureau/warning.png" style="zoom:25%;" />
+<img src="./warning.png" alt="file:///home/usr/Bureau/warning.png" style="zoom:25%;" />
 
-<img src="file:///home/usr/Bureau/ok.png" alt="file:///home/usr/Bureau/ok.png" style="zoom:25%;" />
+<img src="./ok.png" alt="file:///home/usr/Bureau/ok.png" style="zoom:25%;" />
 
 5. Appuyez sur la flèche de retour, ou le boutton retour dans le coin supérieur gauche. L'application devrait maintenant être proposée à l'installation, acceptez.
 
-   <img src="file:///home/usr/Bureau/install.png" alt="file:///home/usr/Bureau/install.png" style="zoom:25%;" />
+   <img src="./install.png" alt="file:///home/usr/Bureau/install.png" style="zoom:25%;" />
 
 6. Celle-ci devrait maintenant figurer dans votre liste d'applications, et être prête à l'emploi.
 
-<img src="file:///home/usr/Bureau/hub.png" alt="file:///home/usr/Bureau/hub.png" style="zoom:25%;" />![file:///home/usr/Bureau/done.png](file:///home/usr/Bureau/done.png)
-
-<img src="file:///home/usr/Bureau/hub.png" alt="file:///home/usr/Bureau/hub.png" style="zoom:25%;" />![file:///home/usr/Bureau/done.png](file:///home/usr/Bureau/done.png)
+<img src="./hub.png" alt="file:///home/usr/Bureau/hub.png" style="zoom:25%;" />
+<img src="./hub.png" alt="./done.png" style="zoom:25%;" />
