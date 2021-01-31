@@ -8,9 +8,9 @@ Contact : <loic.labeye@groupe-esigelec.org>
 
 ## Instructions
 
-1. Rendez vous sur [ce lien](https://github.com/pediahelp-apk/pediahelp-apk/releases/download/0.1/Pediahelp_v0.1.apk), ou utilisez le QR Code suivant pour commencer le téléchargement.
+1. Rendez vous sur [ce lien](https://github.com/pediahelp-apk/pediahelp-apk/releases/download/0.12/Pediahelp_v0.12.apk), ou utilisez le QR Code suivant pour commencer le téléchargement.
 
-![file:///home/usr/pediahelp-apk/qrcode.png](file:///home/usr/pediahelp-apk/qrcode.png)
+![./qrcode.png](./qrcode.png)
 
 2. Acceptez le téléchargement
 
